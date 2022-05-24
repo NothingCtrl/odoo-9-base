@@ -1,0 +1,9 @@
+xlrd==0.9.4
+/docker-package/egenix-mx-base-3.2.9-py2.7_ucs4-linux-x86_64-prebuilt.zip
+Python-Chart==1.39
+git+https://github.com/ArchipelProject/xmpppy
+fuzzywuzzy==0.16.0
+websocket-client==0.54.0
+pypng==0.0.18
+pyqrcode==1.2.1
+pyotp==2.3.0
