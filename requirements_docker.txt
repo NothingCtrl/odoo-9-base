@@ -11,3 +11,15 @@ python-Levenshtein==0.12.0
 grpcio==1.20.1
 six==1.10.0
 google-cloud-logging==1.15.2
+# addons/server-tools/requirements.txt
+python-ldap
+unidecode
+acme_tiny
+IPy
+validate_email
+pysftp
+fs==0.5.4
+oauthlib
+pyjwt
+cryptography
+python-stdnum
